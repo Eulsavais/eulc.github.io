@@ -1,0 +1,29 @@
+p {
+  	color: darkblue;
+}
+
+h1{
+	background-color: yellow;
+	width: 120px;
+}
+like{
+	color: blue;
+}
+
+#seo{
+	font-size: 30px;
+}
+
+.da-class{
+  	color: khaki;
+}
+
+a[href]{
+	background-color: yellow;
+
+}
+
+p:hover{
+	background-color: yellow;
+
+}
